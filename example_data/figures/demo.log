@@ -1,0 +1,1 @@
+{'gex_metadata': 'example_data/gex_metadata.tsv', 'umi_id': 'tscp_count', 'group_by': 'cluster', 'out_dir': 'example_data/figures', 'guide_h5ad': 'example_data/guide_counts.h5ad', 'cell_id': 'bc_wells', 'prefix': 'demo'}

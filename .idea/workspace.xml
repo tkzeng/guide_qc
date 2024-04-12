@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09026b96-1e36-4375-8378-38ea7e1742ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guide_assignment_qc.py" beforeDir="false" afterPath="$PROJECT_DIR$/guide_assignment_qc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guide_qc.sh" beforeDir="false" afterPath="$PROJECT_DIR$/guide_qc.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/.ipynb_checkpoints/all_genes-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/.ipynb_checkpoints/all_genes.CRISPR-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/.ipynb_checkpoints/cell_metadata.CRISPR-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/DGE.CRISPR.mtx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/DGE.mtx.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/all_genes.CRISPR.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/all_genes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/cell_metadata.CRISPR.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/cell_metadata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/filter_genes_dispersion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/gex_metadata.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/guide_assignment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/guide_assignment.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/guide_counts.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/guide_metadata.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/pca_variance_ratio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/scatter_gene_vs_transcript_counts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/umap_leiden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/violin_mito_pct.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/violin_n_genes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parse/violin_total_counts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.guide_A_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.guide_B_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.guide_vs_gex_umis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.guides_per_cell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.most_abundant_guide_1_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.most_abundant_guide_1_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.most_abundant_guide_2_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.most_abundant_guide_2_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.most_abundant_guide_3_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.most_abundant_guide_3_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.top_guide_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.top_guides_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.0/parse_demo.umis_per_guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.guide_A_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.guide_B_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.guide_vs_gex_umis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.guides_per_cell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.most_abundant_guide_1_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.most_abundant_guide_1_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.most_abundant_guide_2_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.most_abundant_guide_2_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.most_abundant_guide_3_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.most_abundant_guide_3_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.top_guide_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.top_guides_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.1/parse_demo.umis_per_guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.guide_A_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.guide_B_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.guide_vs_gex_umis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.guides_per_cell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.most_abundant_guide_1_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.most_abundant_guide_1_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.most_abundant_guide_2_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.most_abundant_guide_2_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.most_abundant_guide_3_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.most_abundant_guide_3_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.top_guide_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.top_guides_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.2/parse_demo.umis_per_guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.guide_A_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.guide_B_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.guide_vs_gex_umis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.guides_per_cell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.most_abundant_guide_1_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.most_abundant_guide_1_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.most_abundant_guide_2_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.most_abundant_guide_2_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.most_abundant_guide_3_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.most_abundant_guide_3_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.top_guide_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.top_guides_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/leiden.3/parse_demo.umis_per_guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.guide_A_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.guide_B_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.guide_C_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.guide_vs_gex_umis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.guides_per_cell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.most_abundant_guide_1_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.most_abundant_guide_1_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.most_abundant_guide_2_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.most_abundant_guide_2_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.top_guide_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.top_guides_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/parse_demo.umis_per_guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.guide_A_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.guide_B_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.guide_vs_gex_umis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.guides_per_cell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.most_abundant_guide_1_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.most_abundant_guide_1_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.most_abundant_guide_2_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.most_abundant_guide_2_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.most_abundant_guide_3_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.most_abundant_guide_3_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.top_guide_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.top_guides_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.0/parse_demo.umis_per_guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.guide_A_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.guide_B_vs_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.guide_vs_gex_umis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.guides_per_cell.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.most_abundant_guide_1_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.most_abundant_guide_1_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.most_abundant_guide_2_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.most_abundant_guide_2_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.most_abundant_guide_3_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.most_abundant_guide_3_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.top_guide_proportion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.top_guides_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qc_figures/pct_counts_mt_below_7.1/parse_demo.umis_per_guide.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2arOZP69ck2ex4Qhbh0OcUSpjF7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tkzeng/Dropbox/engreitz/guide_qc/github/guide_qc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09026b96-1e36-4375-8378-38ea7e1742ff" name="Changes" comment="" />
+      <created>1705073285803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705073285803</updated>
+      <workItem from="1705073288441" duration="8084000" />
+      <workItem from="1712686760691" duration="5000" />
+      <workItem from="1712773232918" duration="4816000" />
+      <workItem from="1712781609206" duration="53996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
